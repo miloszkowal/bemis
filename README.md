@@ -1,16 +1,16 @@
-# Seshat: A New Book Manager
+# Bemis: A New Book Manager
 
 ## Introduction
 
-Seshat was built from the ground up to be a response to the current book manager scene, which is dominated by Goodreads. It's designed with the user in mind, giving you full control over your books, collections, and friends (coming soon). It features a slick and adaptive user interface, a gorgeous way to interact with your books, and reading goals to keep you reading and growing your library. You have to see it to believe it.
+Bemis was built from the ground up to be a response to the current book manager scene, which is dominated by Goodreads. It's designed with the user in mind, giving you full control over your books, collections, and friends (coming soon). It features a slick and adaptive user interface, a gorgeous way to interact with your books, and reading goals to keep you reading and growing your library. You have to see it to believe it.
 
 ## What's in a Name?
 
-Seshat is the Egyptian deity responsible for wisdom, knowledge, and writing. And since I like ancient Egypt and naming things after a deity is pretty cool, so Seshat was born. It doesn't roll quite off the tongue as some other term might, but oh well, it's meant to be an app for a single user anyway.
+Bemis is the bookworm character from *The Twilight Zone* episode "Time Enough at Last." Unlike him, I hope that you have enough time to actually read the books, and that your glasses are in good shape.
 
 ## Implementation
 
-The backend is managed in Python (Flask), and connected to a SQLite DB on the user's local machine. See Installing the Alpha section for more. On the front end, Seshat is written in Bootstrap, but there is some motivation to move to React, Angular, or Vue.
+The backend is managed in Python (Flask), and connected to a SQLite DB on the user's local machine. See Installing the Alpha section for more. On the front end, Bemis is written in Bootstrap, but there is some motivation to move to React, Angular, or Vue.
 
 ## Installing the Alpha
 
